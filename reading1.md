@@ -4,13 +4,18 @@
 *Case Study: China’s Spy Chip*
 
 How is a hardware hack different than a software hack?
+---
 **A hardware hack is an attack on one or more of the computers physical components. A software attack would be an attack on one of the computers Operating Systems.**
 What are the two ways for spies to alter a computer’s hardware? **One way spies could alter a computer's hardware is through interception durring the manufacturing process. Another way that spies could alter a computer's hardware is by adding additional external components for the purpose of infultrating the operating system.**
 
-Explain how the hack worked. **Supermicro intercepted the motherboards durring the manufacturing process and installed spy chips disguised as signal conditioning couplers. The chips were connected to the baseboard management controller, which gives access to the most sensitive codes even on machines that have crashed or turned off. This chip was altering the information being sent to the CPU, therefor altering the commands that the CPU executes.**
+Explain how the hack worked. 
+---
+**Supermicro intercepted the motherboards durring the manufacturing process and installed spy chips disguised as signal conditioning couplers. The chips were connected to the baseboard management controller, which gives access to the most sensitive codes even on machines that have crashed or turned off. This chip was altering the information being sent to the CPU, therefor altering the commands that the CPU executes.**
 
 
-How were investigators able to trace the chips back to the source? **The investigators were able to trace the chips back to the source through serial numbers, manifests and invoices that all tracked back to their respective factories of origin.**
+How were investigators able to trace the chips back to the source? 
+---
+**The investigators were able to trace the chips back to the source through serial numbers, manifests and invoices that all tracked back to their respective factories of origin.**
 
 ## Things I want to know more about / other notes
 **Growth Mindset**
