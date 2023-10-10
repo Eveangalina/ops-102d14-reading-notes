@@ -1,8 +1,8 @@
 # ops-reading-notes1
 # Hardware vs Software attack
 
-*Case Study: China’s Spy Chip*
-In order to understand the difference between a hardware and a software attack you would need to first understand how the computer functions and its components. 
+*Case Study: China’s Spy Chip*;
+*In order to understand the difference between a hardware and a software attack you would need to first understand how the computer functions and its components.*
 
 ### 1. How is a hardware hack different than a software hack?
 **A hardware hack is an attack on one or more of the computers physical components. A software attack would be an attack on one of the computers Operating Systems.**
