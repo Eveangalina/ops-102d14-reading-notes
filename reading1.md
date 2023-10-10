@@ -1,5 +1,5 @@
 # ops-reading-notes1
-## Hardware vs Software attack? China's Spy Chip could affect you, too.
+## Hardware vs Software attack? China's spy chip could affect you, too.
 
 *Case Study: China’s Spy Chip*
 
