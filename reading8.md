@@ -15,7 +15,7 @@
 
 
 <u>4. How do you mount an ISO file?</u>
-*Because it is virtual you may drag and drop rather than needing to insert anything. 
+*Because it is virtual you may drag and drop rather than needing to insert anything.* 
 
 
 **Resourses**
